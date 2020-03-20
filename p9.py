@@ -15,4 +15,4 @@ def triplet():
                 return a * b * c
 
 
-print(triplet())
+print("Product is:", triplet())
