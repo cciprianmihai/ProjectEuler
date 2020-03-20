@@ -5,6 +5,7 @@ n = 7316717653133062491922511967442657474235534919493496983520312774506326239578
 # Find the thirteen adjacent digits in the 1000-digit number that have the greatest product.
 # What is the value of this product?
 
+
 def adjacentDigits(n, k):
     max = 0
     strN = str(n)
@@ -17,5 +18,6 @@ def adjacentDigits(n, k):
             max = product
 
     return max
+
 
 print(adjacentDigits(n, 13))
