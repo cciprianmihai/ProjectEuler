@@ -19,3 +19,4 @@ This repository contains problems from [Project Euler](https://projecteuler.net/
 * [Solution](https://github.com/cciprianmihai/ProjectEuler/blob/master/p15.py) for [problem 15](https://projecteuler.net/problem=15).
 * [Solution](https://github.com/cciprianmihai/ProjectEuler/blob/master/p16.py) for [problem 16](https://projecteuler.net/problem=16).
 * [Solution](https://github.com/cciprianmihai/ProjectEuler/blob/master/p17.py) for [problem 17](https://projecteuler.net/problem=17).
+* [Solution](https://github.com/cciprianmihai/ProjectEuler/blob/master/p18.py) for [problem 18](https://projecteuler.net/problem=18).
